@@ -2,6 +2,4 @@
 For now it is just one file:
 
 test:
-./test.sh index.html
-
-No git repo yet.
+./test.sh public/index.html
